@@ -1,4 +1,4 @@
-# ITServices
+# IT Services
 Empowering Innovation: Comprehensive IT Services Solutions
 
 **IT Services Offered by Retail Analytica**
@@ -82,5 +82,11 @@ Retail Analytica specializes in providing cutting-edge IT services designed to e
 •	Predictive Maintenance for Retail Equipment
 
 By combining technical expertise with retail-specific knowledge, Retail Analytica ensures that each service is tailored to meet the unique needs of its clients. Let us help you harness the power of technology to transform your retail business.
+
+For more information or to schedule a IT Service, please contact:
+
+Retail Analytica
+Email: Solution@retailanalytica.com
+Website: www.retailanalytica.com
 
 
